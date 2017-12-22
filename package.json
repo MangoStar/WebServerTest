@@ -1,0 +1,12 @@
+{
+  "name": "GitTestServer",
+  "version": "1.0.0",
+  "description": "A Server Side Website with github",
+  "main": "server.js",
+  "author": "Cole Mangio",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "2.0.4",
+    "express": "4.16.2"
+  }
+}
